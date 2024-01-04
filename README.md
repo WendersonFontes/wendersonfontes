@@ -1,4 +1,4 @@
-### Olá eu sou o Wenderson Fontes
+### Olá, eu sou o Wenderson Fontes!
 
 - 🔭 Hoje eu treino para trabalhar com tecnologias que envolvem área de dados.
 - 🌱 Estudando Python.
