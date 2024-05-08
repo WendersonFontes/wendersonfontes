@@ -1,7 +1,7 @@
 ### Olá, eu sou o Wenderson Fontes!
 
-- 🔭 Hoje eu treino para trabalhar com tecnologias que envolvem área de dados.
-- 🌱 Estudando Python e SQL.
+- 🔭 Hoje eu treino para trabalhar com tecnologias que envolvem IA.
+- 🌱  Python.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
