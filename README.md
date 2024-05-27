@@ -1,6 +1,6 @@
 ### Olá, eu sou o Wenderson Fontes!
 
-- 🔭 Hoje eu treino para trabalhar com tecnologias que envolvem IA.
+- 🔭 Visão Computacional, Machine Learn, IA.
 - 🌱  Python.
 
 <div style="display: inline_block"><br>
